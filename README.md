@@ -1,0 +1,1 @@
+This is a basic website made using HTML, CSS and Javascript where a new quote will be fetched through API and then a button will help the user directly tweet the quote. It helped me learn the basics of javascript
